@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/john/Desktop/android/geo-quiz/app/build/intermediates/res/merged/debug/drawable-xhdpi/arrow_left.png",
+        "source": "/home/john/Desktop/android/geo-quiz/app/src/main/res/drawable-xhdpi/arrow_left.png"
+    },
+    {
+        "merged": "/home/john/Desktop/android/GeoQuiz/app/build/intermediates/res/merged/debug/drawable-xhdpi/arrow_right.png",
+        "source": "/home/john/Desktop/android/GeoQuiz/app/src/main/res/drawable-xhdpi/arrow_right.png"
+    },
+    {
+        "merged": "/home/john/Desktop/android/geo-quiz/app/build/intermediates/res/merged/debug/drawable-xhdpi/arrow_right.png",
+        "source": "/home/john/Desktop/android/geo-quiz/app/src/main/res/drawable-xhdpi/arrow_right.png"
+    },
+    {
+        "merged": "/home/john/Desktop/android/GeoQuiz/app/build/intermediates/res/merged/debug/drawable-xhdpi/arrow_left.png",
+        "source": "/home/john/Desktop/android/GeoQuiz/app/src/main/res/drawable-xhdpi/arrow_left.png"
+    }
+]

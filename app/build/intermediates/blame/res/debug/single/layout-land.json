@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/home/john/Desktop/android/geo-quiz/app/build/intermediates/res/merged/debug/layout-land/activity_quiz.xml",
+        "source": "/home/john/Desktop/android/geo-quiz/app/src/main/res/layout-land/activity_quiz.xml"
+    },
+    {
+        "merged": "/home/john/Desktop/android/GeoQuiz/app/build/intermediates/res/merged/debug/layout-land/activity_quiz.xml",
+        "source": "/home/john/Desktop/android/GeoQuiz/app/src/main/res/layout-land/activity_quiz.xml"
+    }
+]

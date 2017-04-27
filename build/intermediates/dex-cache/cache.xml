@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/john/.android/build-cache/1f3786e08371227e9632df791c812082058cbaf9/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3e04ac8ca644ea7baddf6fdcf72e15c79e9df94a">
+        <dex dex="/home/john/Desktop/android/GeoQuiz/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_9d68908ce1d3b1028ee4940318ed3151923a4982/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/john/Desktop/android/GeoQuiz/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="/home/john/Desktop/android/GeoQuiz/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_426feab972a4b7ecbc26ed9d5c393097ac0dc678/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/john/Android/Sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/home/john/Desktop/android/GeoQuiz/app/build/intermediates/transforms/dex/debug/folders/1000/10/constraint-layout-solver-1.0.2_cceb628fa5ca13b7d16c13bcb2b89e9f66c887dd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/john/.android/build-cache/f1d82209266bd5fb2c6db1c4f19f7ad10d42b571/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7bde4c34162092e0a77e7f12dc85ed77c484cf5c">
+        <dex dex="/home/john/Desktop/android/GeoQuiz/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e3e7ce9d738f2f0a9ec9c1c13bbd4475fb999db7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/john/Desktop/android/GeoQuiz/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="008d0eed37d949a295a2c8153bee10f0e6e4fed1">
+        <dex dex="/home/john/Desktop/android/GeoQuiz/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_6299f112b1abe6a37a7cd320bd324c0b9fff81d9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/john/.android/build-cache/5d96171ebfdd0d85319e4958530e42ed9767f98f/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="02741d05d4b697fba5e279e9881aaa1da0ca7c7f">
+        <dex dex="/home/john/Desktop/android/GeoQuiz/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_60bdc895ba177839c74796a7e511aacbda9cafb1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/john/.android/build-cache/efbf4ea5baa5a81f3dcad61ea11713f61ed0a850/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/home/john/Desktop/android/GeoQuiz/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a4c2470e5d30010a0126bc863b5dae01ccfc4c9f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/john/.android/build-cache/18f3025f0d263124668c53e8718dddcae3be5dca/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0d191c1a09e4892d059e5ce749e4ad4e08129e35">
+        <dex dex="/home/john/Desktop/android/GeoQuiz/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e856748368fd2d85f3d755ddab477e1fd774e264/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/john/.android/build-cache/bee87af43ebd85f2c8ee35ab4eba6180b88652f6/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e2719c102dca3a7a5b02ce07f769362da6ddb4ab">
+        <dex dex="/home/john/Desktop/android/GeoQuiz/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_73734a2dca21800953ac3676e6656e248f0eab31/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/john/.android/build-cache/ea6d653857a3f5397d97d16fb3864594add822f1/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0fb891e8f0cfba0513043a7bb357513d229ca2cd">
+        <dex dex="/home/john/Desktop/android/GeoQuiz/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_43f55b13d61581008b3e84ec983b0e4a07a76035/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/john/.android/build-cache/a25f07383cfb11fe769b7ba8cce3a564fbc10513/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/john/Desktop/android/GeoQuiz/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_66a1a019cfd2b0fcff8c010c3c4832b955f041db/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/john/.android/build-cache/967ad2f53961152e0c39873a4debf8d90adf176d/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c03bf57f358aa10d253f21989e93bcf6014b3b17">
+        <dex dex="/home/john/Desktop/android/GeoQuiz/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_207dedd33c2e0902f409cecfe469ff7aa956d145/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/john/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.1.1/support-annotations-25.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b59b6ee8d6ecc03e672d253800430343493a6ed8">
+        <dex dex="/home/john/Desktop/android/GeoQuiz/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.1.1_3791ad54d81b7145cd4d2034d28d3fb789186afc/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/john/.android/build-cache/9bdf5833258ca886448528e61f06c1769b8f42a2/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ecb496cc08dd52551fc5ec6db3bc0632e95a89bb">
+        <dex dex="/home/john/Desktop/android/GeoQuiz/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_3bc6232d6385f15f323f2a40a1707617a9b34d37/classes.dex" />
+    </item>
+
+</items>

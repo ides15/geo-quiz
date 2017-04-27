@@ -1,0 +1,7 @@
+#Wed Apr 26 18:20:55 EDT 2017
+base.0=/home/john/Desktop/android/GeoQuiz/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_6299f112b1abe6a37a7cd320bd324c0b9fff81d9
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=/home/john/Desktop/android/GeoQuiz/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_426feab972a4b7ecbc26ed9d5c393097ac0dc678/classes.dex
+base.1=/home/john/Desktop/android/GeoQuiz/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_426feab972a4b7ecbc26ed9d5c393097ac0dc678
+file.0=/home/john/Desktop/android/GeoQuiz/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_6299f112b1abe6a37a7cd320bd324c0b9fff81d9/classes.dex

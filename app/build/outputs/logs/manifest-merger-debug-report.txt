@@ -1,0 +1,73 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/john/Desktop/android/geo-quiz/app/src/main/AndroidManifest.xml:2:1-22:12
+	package
+		ADDED from /home/john/Desktop/android/geo-quiz/app/src/main/AndroidManifest.xml:3:5-34
+		INJECTED from /home/john/Desktop/android/geo-quiz/app/src/main/AndroidManifest.xml
+		INJECTED from /home/john/Desktop/android/geo-quiz/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/john/Desktop/android/geo-quiz/app/src/main/AndroidManifest.xml
+		INJECTED from /home/john/Desktop/android/geo-quiz/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/john/Desktop/android/geo-quiz/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from /home/john/Desktop/android/geo-quiz/app/src/main/AndroidManifest.xml
+		INJECTED from /home/john/Desktop/android/geo-quiz/app/src/main/AndroidManifest.xml
+application
+ADDED from /home/john/Desktop/android/geo-quiz/app/src/main/AndroidManifest.xml:5:5-20:19
+MERGED from [com.android.support:appcompat-v7:25.1.1] /home/john/.android/build-cache/9bdf5833258ca886448528e61f06c1769b8f42a2/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-v4:25.1.1] /home/john/.android/build-cache/a25f07383cfb11fe769b7ba8cce3a564fbc10513/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.1.1] /home/john/.android/build-cache/bee87af43ebd85f2c8ee35ab4eba6180b88652f6/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.1.1] /home/john/.android/build-cache/f1d82209266bd5fb2c6db1c4f19f7ad10d42b571/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.1.1] /home/john/.android/build-cache/1f3786e08371227e9632df791c812082058cbaf9/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.1.1] /home/john/.android/build-cache/ea6d653857a3f5397d97d16fb3864594add822f1/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.1.1] /home/john/.android/build-cache/18f3025f0d263124668c53e8718dddcae3be5dca/output/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:25.1.1] /home/john/.android/build-cache/967ad2f53961152e0c39873a4debf8d90adf176d/output/AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-compat:25.1.1] /home/john/.android/build-cache/5d96171ebfdd0d85319e4958530e42ed9767f98f/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/john/.android/build-cache/efbf4ea5baa5a81f3dcad61ea11713f61ed0a850/output/AndroidManifest.xml:9:5-20
+	android:label
+		ADDED from /home/john/Desktop/android/geo-quiz/app/src/main/AndroidManifest.xml:7:9-41
+	android:supportsRtl
+		ADDED from /home/john/Desktop/android/geo-quiz/app/src/main/AndroidManifest.xml:8:9-35
+	android:allowBackup
+		ADDED from /home/john/Desktop/android/geo-quiz/app/src/main/AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from /home/john/Desktop/android/geo-quiz/app/src/main/AndroidManifest.xml:9:9-40
+activity#org.johnide.geoquiz.QuizActivity
+ADDED from /home/john/Desktop/android/geo-quiz/app/src/main/AndroidManifest.xml:10:9-16:20
+	android:name
+		ADDED from /home/john/Desktop/android/geo-quiz/app/src/main/AndroidManifest.xml:10:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /home/john/Desktop/android/geo-quiz/app/src/main/AndroidManifest.xml:11:13-15:29
+action#android.intent.action.MAIN
+ADDED from /home/john/Desktop/android/geo-quiz/app/src/main/AndroidManifest.xml:12:17-69
+	android:name
+		ADDED from /home/john/Desktop/android/geo-quiz/app/src/main/AndroidManifest.xml:12:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/john/Desktop/android/geo-quiz/app/src/main/AndroidManifest.xml:14:17-77
+	android:name
+		ADDED from /home/john/Desktop/android/geo-quiz/app/src/main/AndroidManifest.xml:14:27-74
+activity#org.johnide.geoquiz.CheatActivity
+ADDED from /home/john/Desktop/android/geo-quiz/app/src/main/AndroidManifest.xml:17:9-19:20
+	android:name
+		ADDED from /home/john/Desktop/android/geo-quiz/app/src/main/AndroidManifest.xml:17:19-48
+uses-sdk
+INJECTED from /home/john/Desktop/android/geo-quiz/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:25.1.1] /home/john/.android/build-cache/9bdf5833258ca886448528e61f06c1769b8f42a2/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:25.1.1] /home/john/.android/build-cache/a25f07383cfb11fe769b7ba8cce3a564fbc10513/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.1.1] /home/john/.android/build-cache/bee87af43ebd85f2c8ee35ab4eba6180b88652f6/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.1.1] /home/john/.android/build-cache/f1d82209266bd5fb2c6db1c4f19f7ad10d42b571/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.1.1] /home/john/.android/build-cache/1f3786e08371227e9632df791c812082058cbaf9/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.1.1] /home/john/.android/build-cache/ea6d653857a3f5397d97d16fb3864594add822f1/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:25.1.1] /home/john/.android/build-cache/18f3025f0d263124668c53e8718dddcae3be5dca/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.1.1] /home/john/.android/build-cache/967ad2f53961152e0c39873a4debf8d90adf176d/output/AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-compat:25.1.1] /home/john/.android/build-cache/5d96171ebfdd0d85319e4958530e42ed9767f98f/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/john/.android/build-cache/efbf4ea5baa5a81f3dcad61ea11713f61ed0a850/output/AndroidManifest.xml:5:5-7:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.1.1] /home/john/.android/build-cache/9bdf5833258ca886448528e61f06c1769b8f42a2/output/AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from /home/john/Desktop/android/geo-quiz/app/src/main/AndroidManifest.xml
+		INJECTED from /home/john/Desktop/android/geo-quiz/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/john/Desktop/android/geo-quiz/app/src/main/AndroidManifest.xml
+		INJECTED from /home/john/Desktop/android/geo-quiz/app/src/main/AndroidManifest.xml
