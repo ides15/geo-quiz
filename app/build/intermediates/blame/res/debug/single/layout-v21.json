@@ -4,47 +4,15 @@
         "source": "/home/john/.android/build-cache/9bdf5833258ca886448528e61f06c1769b8f42a2/output/res/layout-v21/notification_action_tombstone.xml"
     },
     {
-        "merged": "/home/john/Desktop/geo-quiz/app/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
-        "source": "/home/john/.android/build-cache/9bdf5833258ca886448528e61f06c1769b8f42a2/output/res/layout-v21/notification_template_icon_group.xml"
-    },
-    {
         "merged": "/home/john/Desktop/android/geo-quiz/app/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
         "source": "/home/john/.android/build-cache/9bdf5833258ca886448528e61f06c1769b8f42a2/output/res/layout-v21/notification_template_custom_big.xml"
-    },
-    {
-        "merged": "/home/john/Desktop/android/GeoQuiz/app/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
-        "source": "/home/john/.android/build-cache/9bdf5833258ca886448528e61f06c1769b8f42a2/output/res/layout-v21/notification_template_icon_group.xml"
     },
     {
         "merged": "/home/john/Desktop/android/geo-quiz/app/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
         "source": "/home/john/.android/build-cache/9bdf5833258ca886448528e61f06c1769b8f42a2/output/res/layout-v21/notification_action.xml"
     },
     {
-        "merged": "/home/john/Desktop/android/GeoQuiz/app/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
-        "source": "/home/john/.android/build-cache/9bdf5833258ca886448528e61f06c1769b8f42a2/output/res/layout-v21/notification_template_custom_big.xml"
-    },
-    {
-        "merged": "/home/john/Desktop/android/GeoQuiz/app/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
-        "source": "/home/john/.android/build-cache/9bdf5833258ca886448528e61f06c1769b8f42a2/output/res/layout-v21/notification_action_tombstone.xml"
-    },
-    {
         "merged": "/home/john/Desktop/android/geo-quiz/app/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
         "source": "/home/john/.android/build-cache/9bdf5833258ca886448528e61f06c1769b8f42a2/output/res/layout-v21/notification_template_icon_group.xml"
-    },
-    {
-        "merged": "/home/john/Desktop/geo-quiz/app/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
-        "source": "/home/john/.android/build-cache/9bdf5833258ca886448528e61f06c1769b8f42a2/output/res/layout-v21/notification_template_custom_big.xml"
-    },
-    {
-        "merged": "/home/john/Desktop/geo-quiz/app/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
-        "source": "/home/john/.android/build-cache/9bdf5833258ca886448528e61f06c1769b8f42a2/output/res/layout-v21/notification_action_tombstone.xml"
-    },
-    {
-        "merged": "/home/john/Desktop/geo-quiz/app/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
-        "source": "/home/john/.android/build-cache/9bdf5833258ca886448528e61f06c1769b8f42a2/output/res/layout-v21/notification_action.xml"
-    },
-    {
-        "merged": "/home/john/Desktop/android/GeoQuiz/app/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
-        "source": "/home/john/.android/build-cache/9bdf5833258ca886448528e61f06c1769b8f42a2/output/res/layout-v21/notification_action.xml"
     }
 ]
