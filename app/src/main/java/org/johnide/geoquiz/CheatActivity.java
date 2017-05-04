@@ -17,13 +17,24 @@ public class CheatActivity extends AppCompatActivity {
             "org.johnide.geoquiz.answer_is_true";
     private static final String EXTRA_ANSWER_SHOWN =
             "org.johnide.geoquiz.answer_shown";
+    private static final String KEY_CHEATER = "cheater";
+    private static final String KEY_CLICKED = "clicked";
 
     private boolean mAnswerIsTrue;
+    private boolean mIsCheater;
+    private boolean mWasClicked;
+
+    private static final int trueText = R.string.true_button;
+    private static final int falseText = R.string.false_button;
 
     public static Intent newIntent(Context packageContext, boolean mAnswerIsTrue) {
         Intent i = new Intent(packageContext, CheatActivity.class);
         i.putExtra(EXTRA_ANSWER_IS_TRUE, mAnswerIsTrue);
         return i;
+    }
+
+    public static boolean wasAnswerShown(Intent result) {
+        return result.getBooleanExtra(EXTRA_ANSWER_SHOWN, false);
     }
 
     @Override
@@ -39,12 +50,43 @@ public class CheatActivity extends AppCompatActivity {
         mShowAnswer.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
+                setAnswerShownResult(true);
+                mIsCheater = true;
+                mWasClicked = true;
+
                 if (mAnswerIsTrue) {
-                    mAnswerTextView.setText(R.string.true_button);
+                    mAnswerTextView.setText(trueText);
                 } else {
-                    mAnswerTextView.setText(R.string.false_button);
+                    mAnswerTextView.setText(falseText);
                 }
             }
         });
+
+        if (savedInstanceState != null) {
+            mIsCheater = savedInstanceState.getBoolean(KEY_CHEATER, false);
+            setAnswerShownResult(mIsCheater);
+
+            mWasClicked = savedInstanceState.getBoolean(KEY_CLICKED, false);
+            if (mWasClicked) {
+                if (mAnswerIsTrue) {
+                    mAnswerTextView.setText(trueText);
+                } else {
+                    mAnswerTextView.setText(falseText);
+                }
+            }
+        }
+    }
+
+    private void setAnswerShownResult(boolean isAnswerShown) {
+        Intent data = new Intent();
+        data.putExtra(EXTRA_ANSWER_SHOWN, isAnswerShown);
+        setResult(RESULT_OK, data);
+    }
+
+    @Override
+    protected void onSaveInstanceState(Bundle outState) {
+        super.onSaveInstanceState(outState);
+        outState.putBoolean(KEY_CHEATER, mIsCheater);
+        outState.putBoolean(KEY_CLICKED, mWasClicked);
     }
 }
