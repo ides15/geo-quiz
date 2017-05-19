@@ -23,4 +23,6 @@
 
     <string name="previous_description">Previous button</string>
     <string name="next_description">Next button</string>
+
+    <string name="api_level">API Level %1$d</string>
 </resources>
